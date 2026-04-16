@@ -1,0 +1,8 @@
+[general]
+format=wav49|wav
+serveremail=asterisk@example.com
+attach=yes
+
+[default]
+6001 => 1234,Sergey,sergey@example.com
+6002 => 5678,User2,user2@example.com
