@@ -1,0 +1,23 @@
+# Runtime Asterisk configs (do not commit real configs)
+config/pjsip.conf
+config/voicemail.conf
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Docker
+*.pid
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Cache
+__pycache__/
+*.pyc
