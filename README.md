@@ -157,4 +157,3 @@ See CONTRIBUTING.md
 ## License
 
 MIT License
-MIT License
